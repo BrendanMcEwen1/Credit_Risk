@@ -18,6 +18,9 @@ Using Python to explore and analyze a dataset on borrower data and loan default 
   * Random Forest
   * XGBoost 
 - Visualizing feature importance to determine which features are most influential in predicting defaults, according to each model
+  * 'Raw' importance values
+  * Scaled importance values
+  * Distribution of scaled importance values
 
 ### Future directions: 
 
